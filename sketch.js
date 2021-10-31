@@ -8,7 +8,7 @@ var boat, boatAnimation, bucketImg;
 var score=0;
 var index=0;
 var visibility = 255;
-var gameState = 1;
+var gameState = 0;
 var target = 150;
 
 function preload()
